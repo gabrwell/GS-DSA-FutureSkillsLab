@@ -1,5 +1,8 @@
 # GS-DSA-FutureSkillsLab
 
+Gabriel Gibin Leoncio  - RM: 565462
+Rai Augusto Ribeiro - RM: 562870 
+
 Este repositório contém a solução para o Desafio Global Solution da disciplina de **Estrutura de Dados e Algoritmos (Data Structures and Algorithms)**.
 
 O objetivo deste projeto é duplo:
